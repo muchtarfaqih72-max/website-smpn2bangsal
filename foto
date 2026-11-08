@@ -1,0 +1,14 @@
+<!-- Galeri Foto Kegiatan -->
+<section id="galeri" class="container">
+    <h2 class="section-title">Galeri Kegiatan</h2>
+    <div class="cards-grid">
+        <div class="card">
+            <img src="kegiatan1.jpg" alt="Upacara Bendera" style="width:100%; border-radius:8px;">
+            <h4 style="margin-top:10px;">Upacara Hari Kemerdekaan</h4>
+        </div>
+        <div class="card">
+            <img src="kegiatan2.jpg" alt="Lomba Pramuka" style="width:100%; border-radius:8px;">
+            <h4 style="margin-top:10px;">Kegiatan Perkemahan Pramuka</h4>
+        </div>
+    </div>
+</section>
